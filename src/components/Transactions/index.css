@@ -38,10 +38,10 @@ table {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 10px;
     margin-bottom: 10px;
-
+    padding: 10px;
   }
+
   .second-container{
     display: flex;
     flex-direction: row;
@@ -56,26 +56,29 @@ table {
     background-color: #f0b762;
     color: black;
     border-radius: 15px;
-
+    
     height: 30px;
     width: 45%;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 14px;
+    font-size: 18px;
+    text-align: center;
   }
   .dropdown-list{
     outline: none;
     background-color: #f0b762;
     color: black;
     border-radius: 15px;
-
+    text-align: center;
     height: 30px;
     width: 30%;
     cursor: pointer;
+    font-size: 18px;
   }
   .selector-element{
     background-color: rgb(147, 165, 42);
     color: white;
+    
     
   }
   .last-container{

@@ -18,6 +18,8 @@
     width: 35%;
     margin-top: 10px;
     margin-bottom: 10px;
+    
+    text-align: center;
 }
 .element{
     display: flex;
